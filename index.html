@@ -59,6 +59,15 @@
 			background: rgba(0,0,0,.05);
 			color: var(--bc-primary);
 		}
+		.code{
+			background-color: black;
+			border-radius: 10px;
+			padding: 16px;
+			color: white;
+		}
+		.code pre{
+			color: white;
+		}
 		</style>
 
 
@@ -72,13 +81,34 @@
 				<div background-color='#008dcd' class='card-header'>
 					<img alt='Sketchub' class='img-responsive' src='https://raw.githubusercontent.com/Amitoj02/project/master/images/sketchub_word_white.png'/>
 				</div>
-				
 				<div class='card-body'>
 					<h5 class='card-title'>APIs provided by Sketchub</h5>
+				</div>
+			</div>
+				<br>
+			<div class='card'>
+				<div class='card-body'>
+					<h5 class='card-title'><b>Codehub API</b></h5>
+					<h5>Codehub provides API for Java Codes.</h5>
+					<br>
+					<h6><b>GET</b></h6>
+						<pre class='code'> http://api.sketchub.in/codehub/</pre>
+					<br>
+					<h6><b>RESULT</b></h6>
+					<h6>Result will be Array JSON (Listmap JSON), in which Object JSON (Map JSON) will be listed of following keys.</h6>
+					<pre class='code'>- id (Unique ID of Code issued by Codehub)<br>- title (Title of Code)<br>- code (The main code will be here)<br>- about (The information related to the particular code.<br>- category (Category of the code)<br>- source (Link or Name of source)<br>- androidx_supported (If it is supported to latest Sketchware or not)<br>- android_old_supported (If it is supported to Sketchware v3.9.9 or less)</pre>
+					<br>
+					<h5>Categories for Java Codes.</h5><br>
+					<h6><b>GET</b></h6>
+						<pre class='code'> http://api.sketchub.in/codehub/category</pre>
+					<br>
+					<h6><b>RESULT</b></h6>
+					<h6>Result will be Array JSON (Listmap JSON), in which Object JSON (Map JSON) will be listed of following keys.</h6>
+					<pre class='code'>- id (Unique ID of Code issued by Codehub)<br>- title (Title of Code)<br>- code (The main code will be here)<br>- about (The information related to the particular code.<br>- category (Category of the code)<br>- source (Link or Name of source)<br>- androidx_supported (If it is supported to latest Sketchware or not)<br>- android_old_supported (If it is supported to Sketchware v3.9.9 or less)</pre>
 
 				</div>
 			</div>
-			<br>
+				<br>
 			<div>
 				<center>
 					<a class='btn-container' href="http://sketchub.in">

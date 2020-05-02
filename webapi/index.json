@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Country flags",
+    "description": "A simple API to load flag of any country",
+    "link": "https://www.countryflags.io/",
+    "id": 1,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": " TimeZoneDB",
+    "description": "Provides world time zone database download and API access.",
+    "link": "https://timezonedb.com/",
+    "id": 2,
+    "free": true,
+    "recommender": "Telsa II#5265"
+  },
+  {
+    "name": "Discord Emoji",
+    "description": "Provides list of custom emojis/emoji packs for discord and slacks.",
+    "link": "https://discordemoji.com/developer",
+    "id": 3,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "REST Countries",
+    "description": "Provides details of all countries",
+    "link": "https://restcountries.eu/",
+    "id": 4,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Adorable Avatars",
+    "description": "Adorable Avatars is an avatar placeholder service for developers and designers.",
+    "link": " http://avatars.adorable.io/",
+    "id": 5,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Dog API",
+    "description": "DaaS (Dogs-as-a-Service), the internet's biggest collection of open source dog pictures.",
+    "link": "https://dog.ceo/",
+    "id": 6,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "CATAAS",
+    "description": "CATAAS is a REST API. A service that delivers images of cats. The main \nfeature is that we can change the properties of images, add text, \ntruncate the image, add a filter and more.",
+    "link": "https://cataas.com/",
+    "id": 7,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "IP API",
+    "description": "Provides general data for an IP address.",
+    "link": "http://ip-api.com/",
+    "id": 7,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Robohash",
+    "description": "Generate unique robot themed images from any text.",
+    "link": "https://robohash.org/",
+    "id": 8,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Some Random API",
+    "description": "API for random facts and images",
+    "link": " https://some-random-api.ml/",
+    "id": 10,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Gravatar",
+    "description": "Provide your users with a globally recognized avatar.",
+    "link": "https://gravatar.com/",
+    "id": 11,
+    "free": true,
+    "recommender": "Shemitsu#7089"
+  },
+  {
+    "name": "Random User Generator",
+    "description": "Generate random users for your app ideal for testing and example/demo purposes.",
+    "link": "https://randomuser.me/",
+    "id": 12,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Random Avatars",
+    "description": "With this API you can generate random avatars for free based on user \nnames or a random string if you'd prefer that (eg. Firebase Auth Uid).\nUI Avatars has a simple-to-use API with no limiting or login. No usage \ntracking and no information is stored. The final images are cached, but \nnothing else. Just write name or surname, or both.",
+    "link": "https://ui-avatars.com/random-avatar-generator/",
+    "id": 13,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Dicebear Avatars",
+    "description": "This API is best suited for designers and developers to create avatar \nplaceholders. But you are free to use the generated avatars for other \npurposes.",
+    "link": "https://avatars.dicebear.com/",
+    "id": 14,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Spotify",
+    "description": "This API has many features, I'm mentioning it mostly for it's search function.",
+    "link": "https://developer.spotify.com/",
+    "id": 15,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "New York Times",
+    "description": "Get info on books in the Best Sellers List, top NYT stories and other useful New York Times related information.",
+    "link": "https://developer.nytimes.com/apis",
+    "id": 16,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Google Custom Search",
+    "description": "Make your own custom search engine and then query it from within your app.",
+    "link": "https://developers.google.com/custom-search/v1/using_rest",
+    "id": 17,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "XKCD",
+    "description": "xkcd A webcomic of romance, sarcasm, math, and language.\nMake your own comic app or add a funny to your app's about page.",
+    "link": "https://xkcd.com/json.html",
+    "id": 18,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "math.js",
+    "description": "Don't reinvent the wheel when there's one you can use for free - like this math API. You can make 1 request every ten seconds.",
+    "link": "https://api.mathjs.org/",
+    "id": 19,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Rextester",
+    "description": "Free REGEX tester and more",
+    "link": " https://rextester.com/main",
+    "id": 20,
+    "free": true,
+    "recommender": "Cj#1401"
+  },
+  {
+    "name": "Fast SMS",
+    "description": "Bulk SMS sending API, comes with a free trial.",
+    "link": "https://www.fast2sms.com/",
+    "id": 21,
+    "free": true,
+    "recommender": "Pratham#0374"
+  },
+  {
+    "name": "Browshot",
+    "description": "An API for taking screenshots of any webpage you want at any screen \nsize. Free plan comes with 100 screenshots per month and pricing for \nmore is reasonable.",
+    "link": "https://browshot.com/",
+    "id": 22,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Freesound",
+    "description": "Access a library of Creative Commons sounds for your app.",
+    "link": "https://freesound.org/docs/api/",
+    "id": 23,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Neutrino",
+    "description": "Free for small applications a general purpose API with a lot of features\n of most interest is a bad language filter, email validation including \nverification and much more. Should you need more services they have \nreasonable monthly plans.",
+    "link": "https://www.neutrinoapi.com/",
+    "id": 24,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Datumbox",
+    "description": "Datumbox enables you to build applications that use Text Analysis and \nNatural Language Processing techniques. You can build applications for \nSocial Media Monitoring, Search Engine Optimization tools, Parental \nControl apps, Quality and Anti-spam filters for your community or forum \nand various other applications that require analyzing text.",
+    "link": "http://www.datumbox.com/",
+    "id": 25,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "ODWeather",
+    "description": "Free weather API.",
+    "link": "https://api.oceandrivers.com/static/docs.html",
+    "id": 26,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Mailbox Validator",
+    "description": "The Single Email Validation API does validation on a single email \naddress to help you eliminate invalid and unreachable email addresses. \nIt checks for email syntax, MX record, MX server connection, email \ngreylisting, free email, disposable email, suppressed email, role email,\n high risk email, catch-all email and so on. See immediate results for \nyour email validation.",
+    "link": "https://www.mailboxvalidator.com/web-service",
+    "id": 27,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Fun Generators",
+    "description": "A lot of fun, random, quirky, sometimes useful generators. All free.",
+    "link": "https://fungenerators.com/",
+    "id": 28,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "Fun Translations",
+    "description": "A large number of movie and unusual languages - ratelimited to 60 API \ncalls per day (5 an hour) for each group of languages. Suggested use: \noffer paying VIP users of your apps access to this API, a bit like \nDiscord Nitro :)",
+    "link": "https://funtranslations.com/api/",
+    "id": 29,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  },
+  {
+    "name": "JSONBox",
+    "description": "A free HTTP based JSON storage.",
+    "link": "https://jsonbox.io/",
+    "id": 30,
+    "free": true,
+    "recommender": "Wasi Master#4245"
+  },
+  {
+    "name": "os-thm API",
+    "description": "A free API for themes, only for .os-thm extension. It is created by Sketchware User, here is project link for learning more about it: http://link.sketchub.in/ostheme ",
+    "link": "https://teammusic-tw.firebaseio.com/upload/themes.json",
+    "id": 31,
+    "free": true,
+    "recommender": "リェンーゆく#8344"
+  },
+  {
+    "name": "TeamMusic's musics API",
+    "description": "A free API from TeamMusic's database for songs.",
+    "link": "https://teammusic-tw.firebaseio.com/upload/text.json",
+    "id": 32,
+    "free": true,
+    "recommender": "リェンーゆく#8344"
+  },
+  {
+    "name": "Codehub API",
+    "description": "Java Codes for sketchware in advance format",
+    "link": "http://api.sketchub.in/",
+    "id": 33,
+    "free": true,
+    "recommender": "AMIT0J#3822"
+  },
+  {
+    "name": "Open Skills",
+    "description": "A complete and standard data store for canonical and emerging skills, \nknowledge, abilities, tools, technolgies, and how they relate to jobs.\nCreated by Work Data Initiative",
+    "link": "http://api.dataatwork.org/v1/spec/",
+    "id": 34,
+    "free": true,
+    "recommender": "Tesla II#5265"
+  }
+]
